@@ -85,7 +85,7 @@
         </div>
         
          <div style="text-align:center; margin-top:20px; font-size: 18px">
-            <b>Note: End year is not necessary. If no end year is specified, will only handle the specified year.</b>
+            <b>Note: End year is not necessary. If no end year is specified, it will only handle the specified year.</b>
         </div>
     </body>
 </html>
