@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!-- Up to date with Z Dementia Menu 2-->
+
+<breakfast>
+
+    <entree>
+        <option> Apple Belgian Waffle </option>
+        <option> Apple Sauce Pancakes </option>
+        <option> Bacon Breakfast Croissant </option>
+        <option> Bacon Breakfast Sandwich </option>
+        <option> Bacon Stratta </option>
+        <option> Banana Pancakes </option>
+        <option> Belgian Waffle </option>
+        <option> Biscuits and Gravy </option>
+        <option> Blueberry Belgian Waffle </option>
+        <option> Blueberry Pancakes </option>
+        <option> Cheesy Eggs </option>
+        <option> Denver Bake </option>
+        <option> Denver Breakfast Omelet </option>
+        <option> Denver Breakfast Wrap </option>
+        <option> Denver Strata </option>
+        <option> Diced Ham and Scrambled Eggs </option>
+        <option> Eggs Benedict </option>
+        <option> French Toast </option>
+        <option> Ham Breakfast Croissant </option>
+        <option> Ham Breakfast Sandwich </option>
+        <option> Ham Breakfast Wrap </option>
+        <option> Ham Stratta </option>
+        <option> Pancakes </option>
+        <option> Peach Belgian Waffle </option>
+        <option> Pigs In A Blanket </option>
+        <option> Sausage Breakfast Sandwich </option>
+        <option> Sausage Breakfast Wrap </option>
+        <option> Sausage in a Blanket </option>
+        <option> Vegetable Breakfast Sandwich </option>
+        <option> Vegetable Stratta </option>
+    </entree>
+
+    <side1>
+        <option> Eggs </option>
+        <option> Hash Browns </option>
+    </side1>
+
+    <side2>
+        <option> Bacon </option>
+        <option> Sausage </option>
+    </side2>
+
+    <cereal>
+        <option> Cream of the West </option>
+        <option> Oatmeal </option>
+    </cereal>
+
+    <fruit>
+        <option> Seasonal </option>
+    </fruit>
+
+</breakfast>

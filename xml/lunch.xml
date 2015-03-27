@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<!-- Up to date with Z Dementia Menu 2-->
+
+<lunch>
+    <entree>
+        <option> Baked Cod </option>
+        <option> Baked Ham </option>
+        <option> BBQ Chicken </option>
+        <option> BBQ Pork </option>
+        <option> Beef Brisket </option>
+        <option> Beef Stir Fry </option>
+        <option> Beef Stroganoff </option>
+        <option> Breaded Cod </option>
+        <option> Breaded Veal Cutlets </option>
+        <option> Chicken Alfredo </option>
+        <option> Chicken and Dumplings </option>
+        <option> Chicken Cordon Bleu </option>
+        <option> Chicken Fried Steak </option>
+        <option> Chicken in a Hunter Sauce </option>
+        <option> Chicken in Apricot </option>
+        <option> Chicken in Mushroom Sauce </option>
+        <option> Chicken Stew </option>
+        <option> Corned Beef and Cabbage </option>
+        <option> Country Fried Steak </option>
+        <option> Cran Dijon Chix </option>
+        <option> Cranberry Dijon Chicken </option>
+        <option> Crunchy Baked Cod </option>
+        <option> Fried Chicken </option>
+        <option> German Sausage and Sauerkraut </option>
+        <option> Grilled Ham Steak </option>
+        <option> Grilled Pork Chops </option>
+        <option> Ham Steak </option>
+        <option> Home Style Beef Stew </option>
+        <option> Italian Ham and Peas </option>
+        <option> Lasagna </option>
+        <option> Lemon Pepper Cod </option>
+        <option> Liver and Onions </option>
+        <option> Meat Loaf </option>
+        <option> New York Steak </option>
+        <option> Open Faced Turkey Sandwich </option>
+        <option> Orange Beef </option>
+        <option> Pepper Steak </option>
+        <option> Poached Salmon/Bearnaise </option>
+        <option> Pork Chops </option>
+        <option> Pork Loin Chops with Pears </option>
+        <option> Pot Roast </option>
+        <option> Pot Roast of Beef with Yorkshire Pudding </option>
+        <option> Prime Rib </option>
+        <option> Roast Beef </option>
+        <option> Roast Beef with Gravy </option>
+        <option> Roast Chicken Thighs </option>
+        <option> Roast Pork </option>
+        <option> Roast Pork with Apple Stuffing </option>
+        <option> Roast Pork with Dressing </option>
+        <option> Seafood Alfredo </option>
+        <option> Shepherd's Pie </option>
+        <option> Shrimp and Beef Medallions </option>
+        <option> Spanish Meatloaf </option>
+        <option> Swedish Meatballs </option>
+        <option> Swiss Steak </option>
+        <option> Teriyaki Chicken Thighs </option>
+        <option> Teriyaki Salmon Fillet </option>
+        <option> Tilapia </option>
+        <option> Turkey Dinner </option>
+        <option> Turkey Pot Pie </option>
+        <option> Veal Parmesan </option>
+    </entree>
+
+    <salad>
+        <option> Asaparagus </option>
+        <option> Broccoli and Tomato </option>
+        <option> Butter Lettuce </option>
+        <option> Caesar </option>
+        <option> Carrot </option>
+        <option> Cauliflower and Pea </option>
+        <option> Chef </option>
+        <option> Coleslaw </option>
+        <option> Corn </option>
+        <option> Cranberry </option>
+        <option> Creamy Tomato and Cucumber </option>
+        <option> Cucumber </option>
+        <option> Dai </option>
+        <option> Dill Cucumber </option>
+        <option> Garden Green </option>
+        <option> Greek </option>
+        <option> Green </option>
+        <option> Ham and Pineapple </option>
+        <option> Jell-O </option>
+        <option> Macaroni </option>
+        <option> Marinated </option>
+        <option> Marinated ASP </option>
+        <option> Marinated Mushroom </option>
+        <option> Marinated Vegetable </option>
+        <option> Orange and Romaine </option>
+        <option> Oriental </option>
+        <option> Piccadilly Peach </option>
+        <option> Pickled Beet </option>
+        <option> Red Potato </option>
+        <option> Seafood </option>
+        <option> Selection </option>
+        <option> Shrimp Cocktail </option>
+        <option> Spinach </option>
+        <option> Steamed Asparagus </option>
+        <option> Strawberry and Romaine </option>
+        <option> Summer Pasta </option>
+        <option> Sunshine </option>
+        <option> Three Bean </option>
+        <option> Tomato and Onion </option>
+        <option> Tossed </option>
+        <option> Tossed Green </option>
+        <option> Waldorf </option>
+    </salad>
+
+    <starch>
+        <option> Angel Hair Pasta </option>
+        <option> Au Gratin </option>
+        <option> Baked </option>
+        <option> Baked Potato and Sour Cream </option>
+        <option> Baked Potato With Trimmings </option>
+        <option> Boiled Red Potatoes </option>
+        <option> Butter Noodle </option>
+        <option> Corn Bread With Honey Butter </option>
+        <option> Fettuccine </option>
+        <option> Garlic and Herb Mashed Potatoes </option>
+        <option> Homemade Biscuits </option>
+        <option> Johnny Spuds </option>
+        <option> Linguine Noodles with Tomato Sauce </option>
+        <option> Mashed </option>
+        <option> Mashed Potatoes </option>
+        <option> Oven Roasted Potatoes </option>
+        <option> Potato Roasted </option>
+        <option> Potato Salad </option>
+        <option> Potato with Onions </option>
+        <option> Potato with Vegetables </option>
+        <option> Rice </option>
+        <option> Roasted Red </option>
+        <option> Scalloped Potatoes </option>
+        <option> Steamed Potatoes </option>
+        <option> Steamed Rice </option>
+        <option> Whipped Potatoes </option>
+        <option> Yams </option>
+    </starch>
+
+    <vegetable>
+        <option> Asparagus </option>
+        <option> Asparagus with Hollandaise Sauce </option>
+        <option> Baby Carrots </option>
+        <option> Bean and Carrot Medley </option>
+        <option> Bean Casserole </option>
+        <option> Beet Slices </option>
+        <option> Broccoli </option>
+        <option> Broccoli Cheese </option>
+        <option> Broccoli/Cauliflower with Cheese Sauce </option>
+        <option> Carrot and Bean Medley </option>
+        <option> Carrot Coins </option>
+        <option> Carrots </option>
+        <option> Cauliflower Cheese </option>
+        <option> Chopped Spinach </option>
+        <option> Corn </option>
+        <option> Corn Carrots </option>
+        <option> French Cut Green Beans </option>
+        <option> Gingered Carrots </option>
+        <option> Green Beans </option>
+        <option> Harvard Beets </option>
+        <option> Italian Vegetables </option>
+        <option> Medley </option>
+        <option> Mixed Vegetables </option>
+        <option> Niblet Corn </option>
+        <option> Niblet Corn or Corn on the Cob </option>
+        <option> Oriental </option>
+        <option> Peas </option>
+        <option> Peas and Onions </option>
+        <option> Seasonal Vegetable Garnish </option>
+        <option> Select Vegetable </option>
+        <option> Squash </option>
+        <option> Steamed Corn </option>
+        <option> Steamed Sliced Carrots </option>
+        <option> Stir Fry </option>
+        <option> Stuffed Green Peppers </option>
+        <option> Vegetable/ASP </option>
+        <option> Yellow Beans </option>
+        <option> Zucchini </option>
+        <option> Zucchini Bake </option>
+        <option> Zucchini with Red Peppers </option>
+    </vegetable>
+
+   <dessert>
+       <option> Ambrosia Salad </option>
+       <option> Angel Food </option>
+       <option> Apple Crisp </option>
+       <option> Apple Pie </option>
+       <option> Apple Spice Cake </option>
+       <option> Apple Tarts </option>
+       <option> Applie Pie a la Mode </option>
+       <option> Apricot Crisp </option>
+       <option> Blueberry Pie </option>
+       <option> Bread Pudding </option>
+       <option> Brownie Sundae </option>
+       <option> Carrot Cake </option>
+       <option> Chocolate Cake </option>
+       <option> Chocolate Cream Pie </option>
+       <option> Chocolate Cream Puffs </option>
+       <option> Chocolate Zucchini Cake </option>
+       <option> Chocolate/Zucchini Cake </option>
+       <option> Coconut Cream Pie </option>
+       <option> Cranberry Ice </option>
+       <option> Cream Pie </option>
+       <option> Cream Puffs </option>
+       <option> Date Squares </option>
+       <option> Fruit Pie </option>
+       <option> Fruited Jell-O </option>
+       <option> Grasshopper Delight </option>
+       <option> Ice Cream with Toppings </option>
+       <option> Iced Cupcakes </option>
+       <option> Italian Cream Cake </option>
+       <option> Lemon Loaf with Lemon Sauce </option>
+       <option> Lemon Meringue </option>
+       <option> Lemon Meringue Pie </option>
+       <option> Mandarin Oranges </option>
+       <option> Mocha Dessert </option>
+       <option> Mocha Mousse </option>
+       <option> Peach Melba </option>
+       <option> Peach Pie </option>
+       <option> Peach Pie with Ice Cream </option>
+       <option> Pumpkin Custard Pie </option>
+       <option> Pumpkin Pie </option>
+       <option> Raisin Bars </option>
+       <option> Rhubarb Pie </option>
+       <option> Rice Pudding </option>
+       <option> Selection </option>
+       <option> Sherbet </option>
+       <option> Sliced Peaches with Cookie </option>
+       <option> S'more Delight </option>
+       <option> Spice Cake </option>
+       <option> Stewed Rhubarb with Ice Cream </option>
+       <option> Strawberry Cheesecake </option>
+       <option> Tiramisu </option>
+       <option> Tropical Chiffon </option>
+       <option> Upside Down Cake </option>
+       <option> Walnut Cream Layer </option>
+       <option> White Cake </option>
+       <option> Yellow Cake </option>
+   </dessert>
+
+</lunch>
