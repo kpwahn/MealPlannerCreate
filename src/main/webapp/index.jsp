@@ -37,7 +37,7 @@
             <span style="font-size:24px; margin-left: 20px">End Year:</span>
             <input type="text" style="font-size:20px" maxlength="4" placeholder="2020" name="endYear" />
 
-            <input type="submit" name="submit" value="Submit" style="font-size:24px" />
+            <input type="submit" name="submit" value="Add" style="font-size:24px" />
         </form>
         </div>
         <div>
@@ -66,7 +66,7 @@
 <span style="font-size:24px; margin-left: 20px">End Year:</span>
             <input type="text" style="font-size:20px" maxlength="4" placeholder="2020" name="endYear" />
 
-            <input type="submit" name="submit" value="Submit" style="font-size:24px" />
+            <input type="submit" name="submit" value="Delete" style="font-size:24px" />
         
             </form>
             <p style="text-align: center; font-size: 32px">${message1}</p>
@@ -91,7 +91,7 @@
                 <option value="Snyder">Snyder</option>
             </select>
             <span style="margin-left: 25px; font-size:24px">Year: </span>
-            <input type="text" name="year" style="font-size:20px" placeholder="2015" required/>
+            <input type="text" name="year" style="font-size:20px"  maxlength="4" placeholder="2015" required/>
              <span style="font-size: 24px">Month: </span>
                 <select name="month">
                 <option value="January">January</option>
