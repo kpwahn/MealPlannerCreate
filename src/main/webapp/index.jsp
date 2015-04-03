@@ -110,7 +110,7 @@
             </select>
             <span style="font-size:24px; margin-left: 25px">Day:</span>
             <input type="text" style="font-size:20px" maxlength="2" placeholder="13" name="day" required/>
-                <button type="submit">Look Up</button>
+                <button type="submit" style="font-size:24px">Look Up</button>
             </form>
         </div>
     </body>
